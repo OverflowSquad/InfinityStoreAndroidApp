@@ -9,6 +9,7 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 public class MainActivity extends AppCompatActivity {
+    String checagem = "ok";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
